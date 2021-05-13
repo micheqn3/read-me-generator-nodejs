@@ -1,0 +1,26 @@
+{
+  "name": "uci-unit9-hmwk",
+  "version": "1.0.0",
+  "description": "README generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micheqn3/read-me-generator-nodejs.git"
+  },
+  "keywords": [
+    "README",
+    "generator"
+  ],
+  "author": "Michelle Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micheqn3/read-me-generator-nodejs/issues"
+  },
+  "homepage": "https://github.com/micheqn3/read-me-generator-nodejs#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
