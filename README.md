@@ -1,7 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## README Generator 
 
-This repository contains a README generator run through the command line using Node.js. 
+This repository contains a README generator that is run through the command line using Node.js. 
 The application will append the README to the sample folder.
 
 ### Installation 
@@ -18,12 +18,17 @@ The application will append the README to the sample folder.
 ### This repository contains: 
 
   - index.js - This script uses the inquirer package to present to the user a series of questions about their project.
-  Using this information, the script wil create a README file in the sample folder based on the user input.
+  Using this information, the script will create a README file in the sample folder based on the user input.
 
   - generate.js - This script will be used to pass user data into a template literal. This will generate the README file and is exported 
   to index.js.
 
+### License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+MIT 
+
 ### Walkthrough Demo
 
-### License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-MIT 
+
+https://user-images.githubusercontent.com/68047684/118381156-dbace980-b59c-11eb-800e-a1db3a7ed3f7.mp4
+
