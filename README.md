@@ -23,6 +23,12 @@ The application will append the README to the sample folder.<br> <br> The sample
 
   - generate.js - This script will be used to pass user data into a template literal. This will generate the README file and is exported 
   to index.js.
+  
+ ### Technologies/Languages used: 
+
+  - JavaScript
+  - Node.js
+  - Inquirer
 
 ### License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
