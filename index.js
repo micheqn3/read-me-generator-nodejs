@@ -1,5 +1,5 @@
 const fs = require('fs'); // Includes the file system module
-const generateReadme = require('./generate');
+const generateReadme = require('./src/generate');
 const inquirer = require('inquirer'); // Include inquirer package
 inquirer  
     .prompt([
