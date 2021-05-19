@@ -77,7 +77,7 @@ inquirer
                 break;
         }
         const readText = generateReadme(newBadge, title, description, installation, usage, contributing, test, license, github, email)
-        fs.appendFile('./sample/sampleReadme.md', readText, function (err) {
+        fs.writeFile('./sample/sampleReadme.md', readText, function (err) {
             if (err) throw err;
             console.log('Saved!');
           }); 
