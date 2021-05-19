@@ -13,7 +13,7 @@ This repository contains a README generator that is run through the command line
 3. Install the NPM package 
 > npm install
 4. Run the application in command line 
-> node index.js
+> node index
 
 ![Screenshot](/Assets/command-line.png)
 
