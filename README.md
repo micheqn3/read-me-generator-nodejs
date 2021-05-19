@@ -1,8 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## README Generator 
 
-This repository contains a README generator that is run through the command line using Node.js. 
-The application will append the README to the sample folder.<br> <br> The sample README generated using the application can be found in /src/sample/
+This repository contains a README generator that is run through the command line using Node.js.  <br> The sample README generated using the application can be found in /sample.
 
 
 ### Installation 
