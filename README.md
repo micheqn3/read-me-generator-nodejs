@@ -16,6 +16,8 @@ The application will append the README to the sample folder.<br> <br> The sample
 4. Run the application in command line 
 > node index.js
 
+![Screenshot](/Assets/command-line.png)
+
 ### This repository contains: 
 
   - index.js - This script uses the inquirer package to present to the user a series of questions about their project.
