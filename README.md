@@ -8,8 +8,8 @@ This repository contains a README generator that is run through the command line
 
 1. Make sure you have Node.js to run the application
 2. Clone this repo
-> HTTPS: `https://github.com/micheqn3/readme-generator-nodejs.git` <br>
-> SSH: `git@github.com:micheqn3/readme-generator-nodejs.git`
+> HTTPS: `https://github.com/micheqn3/readme-generator.git` <br>
+> SSH: `git@github.com:micheqn3/readme-generator.git`
 3. Install the NPM package 
 > npm install
 4. Run the application in command line 
